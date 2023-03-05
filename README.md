@@ -1,8 +1,8 @@
 ### Olá, Bem-vindos ao meu repositório ✌😃
 
 <p>
- Atualmente Trabalho com Eletrônica 📱.<br>
- Atualmente estou cursando Ciência da Computação 📚.
+ Estdante de Ciência da Computação no 7° termo 📚.<br>
+ Tecnico em eletroeletrônica 📱. 
  </p>
 
 <div align="center">
