@@ -5,7 +5,7 @@
  Tecnico em eletroeletrônica 📱.<br>
  A procura de uma vaga como estagiário/trainee na área de TI 🧑‍💻. 
  </p>
-
+<br>
 <div align="center">
   <a href="https://github.com/IgorRSousa">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=IgorRSousa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
