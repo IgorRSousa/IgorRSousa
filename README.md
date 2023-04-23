@@ -2,7 +2,8 @@
 
 <p>
  Estdante de Ciência da Computação no 7° termo 📚.<br>
- Tecnico em eletroeletrônica 📱. 
+ Tecnico em eletroeletrônica 📱.<br>
+ A procura de uma vaga como estagiário/trainee na área de TI 🧑‍💻. 
  </p>
 
 <div align="center">
