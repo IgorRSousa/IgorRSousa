@@ -1,9 +1,8 @@
 ### Olá, Bem-vindos ao meu repositório ✌😃
 
 <p>
- Estdante de Ciência da Computação no 7° termo 📚.<br>
- Tecnico em eletroeletrônica 📱.<br>
- A procura de uma vaga como estagiário/trainee na área de TI 🧑‍💻. 
+ Formado em Ciência da Computação 📚.<br>
+ Tecnico em Eletroeletrônica 📱.<br>
  </p>
 <br>
 <div align="center">
@@ -15,15 +14,27 @@
 <div style="display: inline_block"><br>
  
  ### Tecnologias:
- 
-  <img align="center" alt="Rafa-Ts" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img align="center" alt="Rafa-Ts" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+
+ #### Linguagens
   <img align="center" alt="Rafa-Ts" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img align="center" alt="Rafa-Ts" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img align="center" alt="Rafa-Ts" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-  <img align="center" alt="Rafa-Ts" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-  <img align="center" alt="Rafa-Ts" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bulma/bulma-plain.svg" />
+  
+ #### Bancos
   <img align="center" alt="Rafa-Ts" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
+  <img align="center" alt="Rafa-Ts" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" /> 
+
+ #### Frameworks
+  <img align="center" alt="Rafa-Ts" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" />
+  <img align="center" alt="Rafa-Ts" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" />
+  <img align="center" alt="Rafa-Ts" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
+  <img align="center" alt="Rafa-Ts" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
+  <img align="center" alt="Rafa-Ts" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" />
+
+  #### Outros
+   <img align="center" alt="Rafa-Ts" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+   <img align="center" alt="Rafa-Ts" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+   <img align="center" alt="Rafa-Ts" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original-wordmark.svg" />
 </div>
  
 ##
